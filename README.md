@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Miguel G. Morassuti 🚀
 
 -  🔭  Sou estudante de Ciência da Computação pelo UNIVEM
--  🗺️  Estou em busca de entrar no mercado de trabalho  de T.I
+-  🗺️  Estou em busca de entrar no mercado de trabalho  de T.I.
 -  🪴 Atualmente  estou estudando tecnologias e frameworks para front-end (HTML5, CSS3, JS, REACT)
 -  👾 Possuo conhecimentos tambem em linguagens de programação como Python, Java Orientado a Objetos e em SQL
 
