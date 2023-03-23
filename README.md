@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Miguel G. Morassuti 🚀
 
 -  🔭  Sou estudante de Ciência da Computação pelo UNIVEM
--  🗺️  Estou em busca de entrar no mercado de trabalho  de T.I.
--  🪴 Atualmente  estou estudando tecnologias e frameworks para front-end (HTML5, CSS3, JS, REACT)
+-  🗺️  Atuo como estagiário em Desenvolvimento fullstack em uma empresa de referência nacional em adequação a LGPD
+-  🪴 Atualmente  estou estudando tecnologias e frameworks para front-end (HTML5, CSS3, JS, REACT, Material UI)
 -  👾 Possuo conhecimentos tambem em linguagens de programação como Python, Java Orientado a Objetos e em SQL
 
 <div>
