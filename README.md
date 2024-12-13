@@ -9,6 +9,9 @@
   - **Banco de Dados:** MySQL, PostgreSQL
   - **Análise de Dados:** Python, Pandas, ferramentas de visualização
   - **Metodologias Ágeis:** Scrum, Kanban
+ 
+#### Acesse meu currículo em: https://miguelmorassuti.github.io/Curriculo-Virtual/
+
 
 ---
 
