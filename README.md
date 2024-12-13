@@ -1,3 +1,6 @@
+### Olá! Eu sou o Miguel G. Morassuti 🚀
+
+- 🔭 **Bacharel em Ciência da Computação** pelo UNIVEM
 - 🛠️ **Desenvolvedor Full Stack**, apaixonado por resolver problemas com tecnologia
 - 🌱 Atualmente, estou aprofundando meus conhecimentos em **cloud AWS**
 - 👾 Tenho experiência nas seguintes áreas:
